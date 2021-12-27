@@ -1,1 +1,3 @@
-the
+STEPS TO RUN THE PROJECT
+
+1. Open th
